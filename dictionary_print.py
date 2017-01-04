@@ -2,6 +2,9 @@
 d = {"1234": { "catfish": 30, "123456789012345": 12345},
   "dog": {"collie": 0, "poodle": 45, "doberman": 20, "test": {"test1": 1, "test2": 2}}}
 
+
+
+
 def gen_space(level):
     mystr = "    "
     for i in range(level):
