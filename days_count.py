@@ -1,6 +1,7 @@
 
 """
 ### @Author - Aashish
+### Asks for the event date and
 ### Displays the number of days towards some event/day
 
 """
